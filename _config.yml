@@ -1,7 +1,7 @@
 ### your site title here
 
-title: Your Name
-description: subtitle | affiliations | motto
+title: Gabriel Amorim
+description: Software Developer | Front-end | React JS
 
 baseurl: /gradfolio #name of GitHub repository
 url: "" #custom url to be used instead of GitHub repository
@@ -19,8 +19,8 @@ paginate_path: /blog/page:num/
 # Social media links in footer
 facebook: "#"
 twitter: "#"
-linkedin: "#"
-github: "#"
+linkedin: "https://www.linkedin.com/in/gabrielamorim0/"
+github: "https://github.com/RecNove"
 researchgate: "#"
 orcid: "#"
 
